@@ -1,4 +1,4 @@
 node:18-alpine
 emqx/emqx:5.3.2
 mysql:8.0.36
-hertzbeat:1.7.1
+hertzbeat:1.7.0
