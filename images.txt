@@ -1,7 +1,1 @@
-node:18-alpine
-node:22-alpine
-mysql:8.0.36
-apache/hertzbeat:1.7.0
-redis:7.4.5
-postgres:17.6
-eclipse-temurin:21-jdk-alpine-3.22
+apache/hertzbeat:1.7.3
