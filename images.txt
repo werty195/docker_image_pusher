@@ -1,1 +1,1 @@
-apache/hertzbeat:1.7.3
+jenkins/jenkins:2.528-jdk21
