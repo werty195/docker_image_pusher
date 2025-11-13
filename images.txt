@@ -1,1 +1,1 @@
-apache/hertzbeat-collector:1.7.3
+redis/redis-stack:7.4.0-v8
