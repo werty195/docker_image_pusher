@@ -1,1 +1,1 @@
---platform=linux/amd64 eclipse-temurin:21.0.13_9-jre-alpine
+--platform=linux/amd64 eclipse-temurin:21.0.13_9-jre-alpine-3.24
