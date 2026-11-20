@@ -1,1 +1,1 @@
-library/eclipse-temurin:21-jdk-alpine-3.23
+eclipse-temurin:21-jre-alpine-3.23
