@@ -1,1 +1,1 @@
-eclipse-temurin:21-jre-alpine-3.23
+eclipse-temurin:21.0.13_9-jre-alpine
